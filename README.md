@@ -22,7 +22,7 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE%20VIEWS&color=ff8fd6&style=flat-square" alt="Profile views">
 
 </div>
 
@@ -33,7 +33,7 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 <br>
 
 <p align="center">
-<img src="./assets/code-terminal.svg?v=2" width="48%" alt="Aleana code profile">&nbsp;&nbsp;<img src="./assets/Aleanacoding.gif" width="48%" alt="Aleana coding">
+<img src="./assets/code-terminal.svg?v=3" width="48%" alt="Aleana code profile">&nbsp;&nbsp;<img src="./assets/Aleanacoding.gif" width="48%" alt="Aleana coding">
 </p>
 
 <br>
@@ -42,14 +42,33 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 
 ## 🛠 Tools & Stack
 
-### AI & Coding
+### 🤖 AI Models & Assistants
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-5B5BD6?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square)
+![Hermes](https://img.shields.io/badge/Hermes_AI-7C3AED?style=flat-square)
+![CoCounsel](https://img.shields.io/badge/CoCounsel-1F2937?style=flat-square)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square)
+![Kimi](https://img.shields.io/badge/Kimi-111111?style=flat-square)
+![Manus](https://img.shields.io/badge/Manus-111111?style=flat-square)
 
-### Automation & APIs
+### 💻 AI Coding & Builders
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=flat-square)
+![Vercel AI](https://img.shields.io/badge/Vercel%20AI-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### ⚙️ Automation & APIs
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
@@ -58,7 +77,7 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-111111?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=flat-square)
 
-### Frontend
+### 🎨 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -66,14 +85,14 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-### Backend & Data
+### 🗄 Backend & Data
 
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-### Product & Design
+### 🧩 Product & Design
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -86,19 +105,35 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 
 ### Resumie.io
 
-AI-powered career tools for resumes, portfolios, cover letters, and applications.
+A career platform I’m building around resumes, portfolios, cover letters, applications, and practical AI tools for people navigating work.
 
 ### AI + Automation
 
-I build practical workflows using AI agents, Claude Code, Codex, APIs, and automation tools to reduce repetitive work and make complex processes simpler.
+I use AI as part of the actual workflow, not just as a chatbot.
+
+My work combines language models, coding agents, APIs, automation, databases, and human review to turn repetitive or fragmented processes into systems that are easier to run.
+
+I experiment across tools like ChatGPT, Claude, Claude Code, Codex, Gemini, Hermes, CoCounsel, n8n, Zapier, Supabase, and Vercel depending on what the problem needs.
 
 ### Medico-Legal Operations
 
-I design systems for document workflows, case organization, research, and AI-assisted operations in complex medico-legal work.
+I work on systems for complex medico-legal operations, including document organization, research workflows, drafting support, case tracking, information retrieval, and AI-assisted processes.
+
+The interesting part for me is not simply adding AI to existing work. It is understanding the process well enough to decide **what should be automated, what should stay human, and how the two should work together.**
 
 ### Arch Lab
 
-A community for builders experimenting with AI, automation, products, and technology.
+A community for people who want to build, experiment, and learn with AI, automation, software, and emerging technology.
+
+---
+
+## ✦ How I Build
+
+**Understand the problem first.**
+
+Then find the repetitive parts, remove unnecessary steps, build the smallest useful system, test it in real work, and improve it from there.
+
+I care more about tools that get used than demos that only look impressive.
 
 ---
 
