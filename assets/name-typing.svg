@@ -1,0 +1,62 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .name {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 52px;
+      font-weight: 700;
+      fill: #ff8fd6;
+    }
+
+    .cursor {
+      fill: #ff8fd6;
+      animation: blink 1s steps(1) infinite;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="nameClip">
+      <rect x="330" y="18" width="0" height="70">
+        <animate
+          attributeName="width"
+          values="0;540;540;0"
+          keyTimes="0;0.35;0.78;1"
+          dur="8s"
+          repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text
+    x="600"
+    y="72"
+    text-anchor="middle"
+    class="name"
+    clip-path="url(#nameClip)">
+    Maria Aleana De Leon
+  </text>
+
+  <rect
+    x="330"
+    y="30"
+    width="10"
+    height="44"
+    rx="2"
+    class="cursor">
+
+    <animate
+      attributeName="x"
+      values="330;870;870;330"
+      keyTimes="0;0.35;0.78;1"
+      dur="8s"
+      repeatCount="indefinite" />
+
+  </rect>
+
+</svg>
