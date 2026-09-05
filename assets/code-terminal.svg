@@ -1,4 +1,4 @@
-<svg width="720" height="520" viewBox="0 0 720 520"
+<svg width="720" height="720" viewBox="0 0 720 720"
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -29,14 +29,14 @@
     }
   </style>
 
-  <!-- terminal -->
+  <!-- terminal background -->
   <rect
     class="bg"
     x="1"
     y="1"
     rx="14"
     width="718"
-    height="518"
+    height="718"
   />
 
   <!-- traffic lights -->
@@ -44,159 +44,172 @@
   <circle cx="50" cy="26" r="7" fill="#febc2e"/>
   <circle cx="72" cy="26" r="7" fill="#28c840"/>
 
-  <!-- typing masks -->
   <defs>
 
+    <!-- line 1 -->
     <clipPath id="clip1">
       <rect x="25" y="48" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;230;230;230;0"
-          keyTimes="0;0.06;0.78;0.94;1"
-          dur="16s"
+          values="0;230;230;0"
+          keyTimes="0;0.06;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 2 -->
     <clipPath id="clip2">
       <rect x="50" y="78" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;420;420;420;0"
-          keyTimes="0;0.08;0.78;0.94;1"
-          begin="0.9s"
-          dur="16s"
+          values="0;0;430;430;0"
+          keyTimes="0;0.05;0.12;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 3 -->
     <clipPath id="clip3">
       <rect x="50" y="108" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;590;590;590;0"
-          keyTimes="0;0.1;0.78;0.94;1"
-          begin="1.8s"
-          dur="16s"
+          values="0;0;520;520;0"
+          keyTimes="0;0.10;0.17;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 4 -->
     <clipPath id="clip4">
       <rect x="50" y="138" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;390;390;390;0"
-          keyTimes="0;0.08;0.78;0.94;1"
-          begin="2.7s"
-          dur="16s"
+          values="0;0;500;500;0"
+          keyTimes="0;0.15;0.22;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 5 -->
     <clipPath id="clip5">
       <rect x="50" y="168" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;500;500;500;0"
-          keyTimes="0;0.09;0.78;0.94;1"
-          begin="3.6s"
-          dur="16s"
+          values="0;0;580;580;0"
+          keyTimes="0;0.20;0.28;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 6 -->
     <clipPath id="clip6">
       <rect x="50" y="213" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;530;530;530;0"
-          keyTimes="0;0.09;0.78;0.94;1"
-          begin="4.5s"
-          dur="16s"
+          values="0;0;510;510;0"
+          keyTimes="0;0.26;0.34;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 7 -->
     <clipPath id="clip7">
       <rect x="50" y="243" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;600;600;600;0"
-          keyTimes="0;0.1;0.78;0.94;1"
-          begin="5.4s"
-          dur="16s"
+          values="0;0;560;560;0"
+          keyTimes="0;0.32;0.40;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 8 -->
     <clipPath id="clip8">
       <rect x="50" y="273" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;560;560;560;0"
-          keyTimes="0;0.1;0.78;0.94;1"
-          begin="6.3s"
-          dur="16s"
+          values="0;0;600;600;0"
+          keyTimes="0;0.38;0.46;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 9 -->
     <clipPath id="clip9">
       <rect x="50" y="303" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;470;470;470;0"
-          keyTimes="0;0.09;0.78;0.94;1"
-          begin="7.2s"
-          dur="16s"
+          values="0;0;590;590;0"
+          keyTimes="0;0.44;0.52;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 10 -->
     <clipPath id="clip10">
       <rect x="50" y="348" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;590;590;590;0"
-          keyTimes="0;0.1;0.78;0.94;1"
-          begin="8.1s"
-          dur="16s"
+          values="0;0;620;620;0"
+          keyTimes="0;0.50;0.59;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 11 -->
     <clipPath id="clip11">
       <rect x="50" y="378" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;470;470;470;0"
-          keyTimes="0;0.09;0.78;0.94;1"
-          begin="9s"
-          dur="16s"
+          values="0;0;610;610;0"
+          keyTimes="0;0.57;0.66;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
     </clipPath>
 
+    <!-- line 12 -->
     <clipPath id="clip12">
-      <rect x="25" y="418" width="0" height="24">
+      <rect x="50" y="408" width="0" height="24">
         <animate
           attributeName="width"
-          values="0;50;50;50;0"
-          keyTimes="0;0.06;0.78;0.94;1"
-          begin="9.9s"
-          dur="16s"
+          values="0;0;560;560;0"
+          keyTimes="0;0.63;0.72;0.82;1"
+          dur="18s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- closing bracket -->
+    <clipPath id="clip13">
+      <rect x="25" y="448" width="0" height="24">
+        <animate
+          attributeName="width"
+          values="0;0;50;50;0"
+          keyTimes="0;0.70;0.76;0.82;1"
+          dur="18s"
           repeatCount="indefinite"
         />
       </rect>
@@ -204,84 +217,95 @@
 
   </defs>
 
-  <!-- code -->
+  <!-- everything clears and restarts -->
+  <g>
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0;1"
+      keyTimes="0;0.82;0.85;0.98;1"
+      dur="18s"
+      repeatCount="indefinite"
+    />
 
-  <text x="25" y="65" class="code" clip-path="url(#clip1)">
-    <tspan class="orange">const</tspan>
-    <tspan class="white"> aleana = {</tspan>
-  </text>
+    <text x="25" y="65" class="code" clip-path="url(#clip1)">
+      <tspan class="orange">const</tspan>
+      <tspan class="white"> aleana = {</tspan>
+    </text>
 
-  <text x="50" y="95" class="code" clip-path="url(#clip2)">
-    <tspan class="white">name:</tspan>
-    <tspan class="pink"> "Maria Aleana De Leon",</tspan>
-  </text>
+    <text x="50" y="95" class="code" clip-path="url(#clip2)">
+      <tspan class="white">name:</tspan>
+      <tspan class="pink"> "Maria Aleana De Leon",</tspan>
+    </text>
 
-  <text x="50" y="125" class="code" clip-path="url(#clip3)">
-    <tspan class="white">role:</tspan>
-    <tspan class="pink"> "AI Automation Specialist • Product Builder",</tspan>
-  </text>
+    <text x="50" y="125" class="code" clip-path="url(#clip3)">
+      <tspan class="white">role:</tspan>
+      <tspan class="pink"> "Medico-Legal Operations Manager",</tspan>
+    </text>
 
-  <text x="50" y="155" class="code" clip-path="url(#clip4)">
-    <tspan class="white">location:</tspan>
-    <tspan class="pink"> "Philippines 🇵🇭",</tspan>
-  </text>
+    <text x="50" y="155" class="code" clip-path="url(#clip4)">
+      <tspan class="white">studies:</tspan>
+      <tspan class="pink"> "Mechanical Engineering",</tspan>
+    </text>
 
-  <text x="50" y="185" class="code" clip-path="url(#clip5)">
-    <tspan class="white">studying:</tspan>
-    <tspan class="pink"> "Mechanical Engineering",</tspan>
-  </text>
+    <text x="50" y="185" class="code" clip-path="url(#clip5)">
+      <tspan class="white">about:</tspan>
+      <tspan class="pink"> "I turn messy workflows into useful systems.",</tspan>
+    </text>
 
-  <text x="50" y="230" class="code" clip-path="url(#clip6)">
-    <tspan class="white">building:</tspan>
-    <tspan class="purple"> [</tspan>
-    <tspan class="pink">"Resumie.io", "practical AI tools"</tspan>
-    <tspan class="purple">],</tspan>
-  </text>
+    <text x="50" y="230" class="code" clip-path="url(#clip6)">
+      <tspan class="white">building:</tspan>
+      <tspan class="purple"> [</tspan>
+      <tspan class="pink">"Resumie.io", "AI tools", "automations"</tspan>
+      <tspan class="purple">],</tspan>
+    </text>
 
-  <text x="50" y="260" class="code" clip-path="url(#clip7)">
-    <tspan class="white">tools:</tspan>
-    <tspan class="purple"> [</tspan>
-    <tspan class="pink">"Claude Code", "Codex", "n8n", "Zapier"</tspan>
-    <tspan class="purple">],</tspan>
-  </text>
+    <text x="50" y="260" class="code" clip-path="url(#clip7)">
+      <tspan class="white">interests:</tspan>
+      <tspan class="purple"> [</tspan>
+      <tspan class="pink">"AI", "operations", "product building"</tspan>
+      <tspan class="purple">],</tspan>
+    </text>
 
-  <text x="50" y="290" class="code" clip-path="url(#clip8)">
-    <tspan class="white">stack:</tspan>
-    <tspan class="purple"> [</tspan>
-    <tspan class="pink">"JavaScript", "React", "Tailwind"</tspan>
-    <tspan class="purple">],</tspan>
-  </text>
+    <text x="50" y="290" class="code" clip-path="url(#clip8)">
+      <tspan class="white">strength:</tspan>
+      <tspan class="pink"> "Making complex work simpler and clearer.",</tspan>
+    </text>
 
-  <text x="50" y="320" class="code" clip-path="url(#clip9)">
-    <tspan class="white">backend:</tspan>
-    <tspan class="purple"> [</tspan>
-    <tspan class="pink">"Supabase", "Vercel"</tspan>
-    <tspan class="purple">],</tspan>
-  </text>
+    <text x="50" y="320" class="code" clip-path="url(#clip9)">
+      <tspan class="white">approach:</tspan>
+      <tspan class="pink"> "Understand the problem. Then build.",</tspan>
+    </text>
 
-  <text x="50" y="365" class="code" clip-path="url(#clip10)">
-    <tspan class="white">currentFocus:</tspan>
-    <tspan class="pink"> "Building practical tools with AI",</tspan>
-  </text>
+    <text x="50" y="365" class="code" clip-path="url(#clip10)">
+      <tspan class="white">currentFocus:</tspan>
+      <tspan class="pink"> "Using AI to remove repetitive work",</tspan>
+    </text>
 
-  <text x="50" y="395" class="code" clip-path="url(#clip11)">
-    <tspan class="white">philosophy:</tspan>
-    <tspan class="pink"> "Build. Ship. Learn."</tspan>
-  </text>
+    <text x="50" y="395" class="code" clip-path="url(#clip11)">
+      <tspan class="white">goal:</tspan>
+      <tspan class="pink"> "Build tools people actually want to use.",</tspan>
+    </text>
 
-  <text x="25" y="435" class="code" clip-path="url(#clip12)">
-    <tspan class="white">};</tspan>
-  </text>
+    <text x="50" y="425" class="code" clip-path="url(#clip12)">
+      <tspan class="white">philosophy:</tspan>
+      <tspan class="pink"> "Build with purpose. Ship often. Stay curious."</tspan>
+    </text>
 
-  <!-- calm blinking cursor -->
-  <rect
-    class="cursor"
-    x="49"
-    y="455"
-    width="9"
-    height="19"
-    rx="1"
-    fill="#ff8fd6"
-  />
+    <text x="25" y="465" class="code" clip-path="url(#clip13)">
+      <tspan class="white">};</tspan>
+    </text>
+
+    <!-- cursor -->
+    <rect
+      class="cursor"
+      x="49"
+      y="490"
+      width="9"
+      height="19"
+      rx="1"
+      fill="#ff8fd6"
+    />
+
+  </g>
 
 </svg>
