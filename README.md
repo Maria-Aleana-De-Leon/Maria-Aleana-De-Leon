@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/name-typing.svg" width="100%" alt="Maria Aleana De Leon">
+<img src="./assets/name-typing.svg?v=2" width="100%" alt="Maria Aleana De Leon">
 
 ### Medico-Legal Operations Manager • AI & Automation Specialist • Product Builder
 
-Mechanical Engineering student building practical AI tools, automations, and digital products.
+Mechanical Engineering student building at the intersection of AI, operations, and real-world problem solving.
 
 <br>
 
@@ -33,7 +33,7 @@ Mechanical Engineering student building practical AI tools, automations, and dig
 <br>
 
 <p align="center">
-<img src="./assets/code-terminal.svg" width="48%" alt="Aleana code profile">&nbsp;&nbsp;<img src="./assets/Aleanacoding.gif" width="48%" alt="Aleana coding">
+<img src="./assets/code-terminal.svg?v=2" width="48%" alt="Aleana code profile">&nbsp;&nbsp;<img src="./assets/Aleanacoding.gif" width="48%" alt="Aleana coding">
 </p>
 
 <br>
@@ -90,11 +90,11 @@ AI-powered career tools for resumes, portfolios, cover letters, and applications
 
 ### AI + Automation
 
-Practical workflows using AI agents, Claude Code, Codex, APIs, and automation tools.
+I build practical workflows using AI agents, Claude Code, Codex, APIs, and automation tools to reduce repetitive work and make complex processes simpler.
 
 ### Medico-Legal Operations
 
-Systems, document workflows, case organization, and AI-assisted operations for complex medico-legal work.
+I design systems for document workflows, case organization, research, and AI-assisted operations in complex medico-legal work.
 
 ### Arch Lab
 
