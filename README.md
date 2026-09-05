@@ -9,6 +9,7 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 <br>
 
 <a href="https://ko-fi.com/mariaaleana/shop"><img src="https://img.shields.io/badge/KO--FI%20SHOP-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
+&nbsp;&nbsp;
 <a href="https://aleanadeleon.com"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mariaaleana/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,7 +22,7 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 &nbsp;&nbsp;
 <a href="https://discord.gg/nQPErZdpZr"><img src="https://img.shields.io/badge/ARCH%20LAB-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE%20VIEWS&color=ff8fd6&style=flat-square" alt="Profile views">
 
