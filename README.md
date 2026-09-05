@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maria Aleana De Leon
+<img src="./assets/name-typing.svg" width="100%" alt="Maria Aleana De Leon">
 
 ### Medico-Legal Operations Manager • AI & Automation Specialist • Product Builder
 
@@ -104,6 +104,6 @@ A community for builders experimenting with AI, automation, products, and techno
 
 <div align="center">
 
-### Build. Ship. Learn.
+### Build with purpose. Ship often. Stay curious.
 
 </div>
