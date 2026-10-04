@@ -22,9 +22,9 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 &nbsp;&nbsp;
 <a href="https://discord.gg/nQPErZdpZr"><img src="https://img.shields.io/badge/ARCH%20LAB-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE%20VIEWS&color=ff8fd6&style=flat-square" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE+VIEWS&color=ff8fd6&style=flat-square" alt="Profile views">
 
 </div>
 
