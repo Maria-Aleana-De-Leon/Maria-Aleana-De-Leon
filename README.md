@@ -24,7 +24,9 @@ Mechanical Engineering student building at the intersection of AI, operations, a
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&label=PROFILE+VIEWS&color=ff8fd6&style=flat-square" alt="Profile views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maria-Aleana-De-Leon&color=ff8fd6" alt="Profile views" />
+</p>
 
 </div>
 
